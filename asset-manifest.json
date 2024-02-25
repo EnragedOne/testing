@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testing/static/css/main.d308d8aa.css",
-    "main.js": "/testing/static/js/main.05084cf2.js",
+    "main.js": "/testing/static/js/main.51325d38.js",
     "static/media/Poppins-Light.ttf": "/testing/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
     "static/media/Poppins-Regular.ttf": "/testing/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
     "static/media/Poppins-Medium.ttf": "/testing/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.d308d8aa.css",
-    "static/js/main.05084cf2.js"
+    "static/js/main.51325d38.js"
   ]
 }
